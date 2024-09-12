@@ -1,0 +1,13 @@
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\bin\Debug\netcoreapp3.1\ATM_Simulation.exe
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\bin\Debug\netcoreapp3.1\ATM_Simulation.deps.json
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\bin\Debug\netcoreapp3.1\ATM_Simulation.runtimeconfig.json
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\bin\Debug\netcoreapp3.1\ATM_Simulation.runtimeconfig.dev.json
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\bin\Debug\netcoreapp3.1\ATM_Simulation.dll
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\bin\Debug\netcoreapp3.1\ATM_Simulation.pdb
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\obj\Debug\netcoreapp3.1\ATM_Simulation.csprojAssemblyReference.cache
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\obj\Debug\netcoreapp3.1\ATM_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\obj\Debug\netcoreapp3.1\ATM_Simulation.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\obj\Debug\netcoreapp3.1\ATM_Simulation.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\obj\Debug\netcoreapp3.1\ATM_Simulation.dll
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\obj\Debug\netcoreapp3.1\ATM_Simulation.pdb
+C:\Users\samue\RiderProjects\ATM_Simulation\ATM_Simulation\obj\Debug\netcoreapp3.1\ATM_Simulation.genruntimeconfig.cache
